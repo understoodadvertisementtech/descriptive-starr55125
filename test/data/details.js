@@ -1,12 +1,12 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "TEST"; // Do not Touch if not NFT
-    const serverName = "Chimpers";
-    const serverDescription = "Chimpers are a collection of 5,555 generative NFT pixel art characters by @TimpersHDChimpers ";
-    const serverWebsite = "https://www.chimpers.xyz/";
-    const serverTwitter = "https://x.com/ChimpersHQ";
-    const serverDiscord = "https://discord.gg/chimpers";
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "TEST";
+    const serverDescription = "This is a Test Description. ";
+    const serverWebsite = "https://www.test.com/"; // include https://
+    const serverTwitter = "https://x.com/test"; // include https://
+    const serverDiscord = "https://discord.gg/test"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
