@@ -2,25 +2,20 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "TEST";
-    const serverDescription = "This is a Test Description. ";
-    const serverWebsite = "https://www.test.com/"; // include https://
-    const serverTwitter = "https://x.com/test"; // include https://
-    const serverDiscord = "https://discord.gg/test"; // include https://
+    const serverName = "SuperRare";
+    const serverDescription = "SuperRare is a platform to issue, collect, and trade rare digital art backed by non-fungible tokens (NFTs) on the Ethereum blockchain.";
+    const serverWebsite = "https://superrare.com/"; // include https://
+    const serverTwitter = "https://x.com/superrare"; // include https://
+    const serverDiscord = "https://discord.gg/superraredao"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
-    const nftImages = [
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Frc8GrWIT6faQOlH9kwI817fqEvFMnPJDnCtMNr3-8aE",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FMiM9fUSDmFm4K3VRatk67nETDkiI05CuMmojTDEtaI0",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fu2syS3cTLXG0ByOb1kv77FwgerQ7WDNNQX2zwNu3qo4",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVr_-8Xp3ZPyaX-KoymSKYiqce27bV7NIOudGo940ppw",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fixvx1i-xYu7pS-fe0D6peMNUVkr38yDpsP4Zjl57vCA",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FsOTBijPB4TC8H3uxVfx5hCuJOMjTD9F8HMUowPjtLmQ",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fi-pPRcJdsT_I9l_gP52crA2vwjgcmBh-g3J0jrVGGmA",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FPIvIGKtXvfcGrVKiYnxDo_WHwr9g7LwHz6rxZex5o-Y",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVrrnNTuoN7-n248NOvlt50dFTJa1x9dCmRQ7hw0q5rc",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FxmILpdomTQJRvOkjYk18_72ApXhWxrzK5hCRV7MAD0g"
+    const explorerLink = "https://etherscan.io/address/0x41a322b28d0ff354040e2cbc676f0320d8c8850d";
+    const gifImages = [
+        "https://i2.seadn.io/ethereum/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/7ac973dd1fc81bcbb0711d1c54560a/db7ac973dd1fc81bcbb0711d1c54560a.png?w=350",
+        "https://i2.seadn.io/ethereum/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/f226171ab28b3da26a1eca83fcec9c/59f226171ab28b3da26a1eca83fcec9c.png?w=350",
+        "https://i2.seadn.io/ethereum/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/b36888b455af0f8789183500bc0228/d4b36888b455af0f8789183500bc0228.png?w=350",
+        "https://i2.seadn.io/ethereum/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/ed8a7f352fdcedde500ae26d3acdda/60ed8a7f352fdcedde500ae26d3acdda.png?w=350",
+        "https://i2.seadn.io/ethereum/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/3b501ea8e7f6cf5d91d36c6ec5a417/e73b501ea8e7f6cf5d91d36c6ec5a417.png?w=350",
     ];
 
 
@@ -61,8 +56,8 @@
     const img = document.getElementById("nftGIF");
 
     setInterval(() => {
-        img.src = nftImages[index];
-        index = (index + 1) % nftImages.length;
+        img.src = gifImages[index];
+        index = (index + 1) % gifImages.length;
     }, 150);
 
     const chainLogos = {
