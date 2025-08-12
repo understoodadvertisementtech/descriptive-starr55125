@@ -2,23 +2,20 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "Llamaverse Genesis";
-    const serverDescription = "Llamaverse is an NFT Inner Circle. Ecosystem focused on providing value to holders through opportunity and interoperability.";
-    const serverWebsite = "https://hub.xyz/llamaverse"; // include https://
-    const serverTwitter = "https://x.com/Llamaverse_"; // include https://
-    const serverDiscord = "https://discord.gg/llamaverse"; // include https://
-    const serverChain = "ethereum";
+    const serverName = "Liberty Square";
+    const serverDescription = "Liberty Square is a project based in art, lore, and character development with a focus on pushing beyond the walls of web3 and integration into the physical world.";
+    const serverWebsite = "https://libertysquare.io/"; // include https://
+    const serverTwitter = "https://x.com/LibertySquareHQ"; // include https://
+    const serverDiscord = "https://discord.gg/libertysquare"; // include https://
+    const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x9df8aa7c681f33e442a0d57b838555da863504f3";
+    const explorerLink = "https://solscan.io/collection/6fb74ca0d31ceada48386ffab3788d8812bfba170b31d25d06ac72431a2f9f6a";
     const gifImages = [
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/9945f35fe2c4c2efc8e6edeae4779fe3.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/314580a3045539e32f23b2f97b43498d.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/e4f66dd6384ab733a42a583b99d1912b.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/f9ee264163b3d83c73ac7888a34a69ea.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/5fe2793de142c514247d01c22d220301.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/bfb758735bac0af47411b85e571e87f8.gif?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/3963a231dd944aad89375e8a9a81fc15.png?w=350",
-     "https://i2.seadn.io/ethereum/0x9df8aa7c681f33e442a0d57b838555da863504f3/dd29f8e6b95b7517fedca3e034911cb9.png?w=350",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FnktOJOPd5XsjOP3MBlFxp6_O9-QujK2TAfnXxiMWVcM%3Fext%3Dpng",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FU5haJhnbkubfXBO0LVCWJeKYhofcaoa9X5UPb8bJWto%3Fext%3Dpng",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2F4LkSztn-iy8L8l3qDl_VfIpQJCUbebF_YBfIgDoTHQ8%3Fext%3Dpng",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FbKgJwRqzv5hHtG_aSeIZ0FQS3NUkZwyu5LlbDGkG-Nc%3Fext%3Dpng",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Ffv5GLAfffkZwZsx0h_IcOs2PwFW8YfyZjcN7HS5YkJY%3Fext%3Dpng",
     ];
 
 
