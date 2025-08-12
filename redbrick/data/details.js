@@ -2,20 +2,16 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "LAY3R"; // Skip if not NFT
-    const serverName = "Mad Rabbits Riot Club";
-    const serverDescription = "Mad Rabbits Riot Club is a harrowing, yet exhilarating, saga into a raucous world of crypto intrigue, turf wars, and metaverse heists.";
-    const serverWebsite = "https://madrabbits.io/"; // include https://
-    const serverTwitter = "https://x.com/MadRabbitsRC"; // include https://
-    const serverDiscord = "https://discord.gg/madrabbits"; // include https://
+    const serverName = "Redbrick";
+    const serverDescription = "Redbrick is the new land of opportunity for brave creators. Play and Create together!";
+    const serverWebsite = "https://redbrick.land/"; // include https://
+    const serverTwitter = "https://x.com/RedbrickLand"; // include https://
+    const serverDiscord = "https://discord.gg/redbrick"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x57fbb364041d860995ed610579d70727ac51e470";
+    const explorerLink = "https://etherscan.io/address/0xf98943afc628de81e406cb5891fed1813a44378c";
     const gifImages = [
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/abc7e86b74b589eb4522b51a93047055.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/a144eabb012551df5cac867e1dfe19df.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/ac865987fb71e310b04793948593733e.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/1526e2a04586bc01cd029ab25138809e.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/2d2a0ecbc19066d70ee1f47dafef4321.png?w=350",
+     "https://i2.seadn.io/ethereum/0xf98943afc628de81e406cb5891fed1813a44378c/1b1a98c0cb78dc7ed700e3e6552227e1.png?w=350"
     ];
 
 
