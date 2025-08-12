@@ -2,8 +2,8 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "LAY3R"; // Skip if not NFT
-    const serverName = "PhantaBear";
-    const serverDescription = "Phanta Bear is a limited collection of 10,000 digital collectibles that live on the Ethereum blockchain.";
+    const serverName = "Veterans";
+    const serverDescription = "You've endured countless battles to earn your stripes as a Veteran. United in purpose, we march towards glory.";
     const serverWebsite = "https://www.phantaclub.com/"; // include https://
     const serverTwitter = "https://x.com/PhantaBearClub"; // include https://
     const serverDiscord = "https://discord.gg/ezekclub"; // include https://
@@ -15,7 +15,7 @@
      "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/0c3bd9df943bcca8a86458a158fdecba.png?w=350",
      "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/638aba4f28950914e1d22eb0f15d014d.png?w=350",
      "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/33b20cf5b38062ec2f92ff42db7314cb.png?w=350",
-     "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/e7b69a1e34ff476c029b58ffdf3c47c8.png?w=350"
+     "httphttps://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/e7b69a1e34ff476c029b58ffdf3c47c8.png?w=350"
     ];
 
 
