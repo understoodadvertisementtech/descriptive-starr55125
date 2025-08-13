@@ -1,21 +1,21 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "LAY3R"; // Skip if not NFT
+    const ticker = "GMR"; // Skip if not NFT
     const serverName = "Veterans";
     const serverDescription = "You've endured countless battles to earn your stripes as a Veteran. United in purpose, we march towards glory.";
-    const serverWebsite = "https://www.phantaclub.com/"; // include https://
-    const serverTwitter = "https://x.com/PhantaBearClub"; // include https://
-    const serverDiscord = "https://discord.gg/ezekclub"; // include https://
-    const serverChain = "ethereum";
+    const serverWebsite = "https://veteranscrew.xyz/"; // include https://
+    const serverTwitter = "https://x.com/veterans_crew"; // include https://
+    const serverDiscord = "https://discord.gg/veterans"; // include https://
+    const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "htthttps://etherscan.io/address/0x67d9417c9c3c250f61a83c7e8658dac487b56b09";
+    const explorerLink = "https://solscan.io/collection/26835b7af1128e58cdc236ebc384766bbdf7eb4696f6f0bfe1d170145a536577";
     const gifImages = [
-     "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/783ed98b111708c653e3b068d09cae59.png?w=350",
-     "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/0c3bd9df943bcca8a86458a158fdecba.png?w=350",
-     "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/638aba4f28950914e1d22eb0f15d014d.png?w=350",
-     "https://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/33b20cf5b38062ec2f92ff42db7314cb.png?w=350",
-     "httphttps://i2.seadn.io/ethereum/0x67d9417c9c3c250f61a83c7e8658dac487b56b09/e7b69a1e34ff476c029b58ffdf3c47c8.png?w=350"
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicvc4d2mcxhxzae5fqzc2nr555jv77sdrhgfi4huowsjsrosuvrdy%2F769.png",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeibkdkozvyl4butfbvughb7xtms3dp33v6b2vyh6h6ipp74yi6s3ae%2F3776.png",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeigil2lf2bybexacd3vetjgnadkgvrjtcuw66jk4fwqhxvoif2coxi%2F2315.png",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeie2rlfu4o3d7fag6km4yhuqwpzjabynjdfih3ttuds25gj7vlbuye%2F4190.png",
+     "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeigil2lf2bybexacd3vetjgnadkgvrjtcuw66jk4fwqhxvoif2coxi%2F2570.png",
     ];
 
 
@@ -77,7 +77,7 @@
         ronin: "https://guild.xyz/networkLogos/ronin.svg",
         sei: "https://guild.xyz/explorerLogos/seitrace.svg",
         shape: "https://shapescan.xyz/assets/favicon/favicon-16x16.png",
-        solana: "https://solscan.io/favicon.ico",
+        solana: "https://avatars.githubusercontent.com/u/92743431?s=200&v=4",
         soneium: "https://guild.xyz/networkLogos/soneium.webp",
         unichain: "https://unichain.blockscout.com/assets/favicon/favicon-16x16.png",
         zora: "https://guild.xyz/networkLogos/zora.svg"

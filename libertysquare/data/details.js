@@ -77,7 +77,7 @@
         ronin: "https://guild.xyz/networkLogos/ronin.svg",
         sei: "https://guild.xyz/explorerLogos/seitrace.svg",
         shape: "https://shapescan.xyz/assets/favicon/favicon-16x16.png",
-        solana: "https://solscan.io/favicon.ico",
+        solana: "https://avatars.githubusercontent.com/u/92743431?s=200&v=4",
         soneium: "https://guild.xyz/networkLogos/soneium.webp",
         unichain: "https://unichain.blockscout.com/assets/favicon/favicon-16x16.png",
         zora: "https://guild.xyz/networkLogos/zora.svg"
