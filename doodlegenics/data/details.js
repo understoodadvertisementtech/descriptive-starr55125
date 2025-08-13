@@ -6,12 +6,12 @@
     const serverDescription = "444 Doodlegenics Bears Living On The Solana Blockchain.";
     const serverWebsite = "https://www.doodlegenics.com/"; // include https://
     const serverTwitter = "https://x.com/Doodlegenics"; // include https://
-    const serverDiscord = "https://discord.gg/Doodlegenics"; // include https://
+    const serverDiscord = "https://discord.gg/doodlegenics"; // include https://
     const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://solscan.io/token/Bcoq8qd7i1hDrmv7TJqkyT1kZoc8FqvhNi6rphVPVJaZ?cluster=mainnet";
     const gifImages = [
-     "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fcreator-hub-prod.s3.us-east-2.amazonaws.com%2Fdoodlegenics_pfp_1655303678806.gif",
+   "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fcreator-hub-prod.s3.us-east-2.amazonaws.com%2Fdoodlegenics_pfp_1655303678806.gif"
     ];
 
 
