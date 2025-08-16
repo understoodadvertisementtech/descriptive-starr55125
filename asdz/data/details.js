@@ -1,21 +1,17 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "LAY3R"; // Skip if not NFT
-    const serverName = "HYTOPIA";
-    const serverDescription = "HYTOPIA Worlds are digital keys that play an essential balancing role within HYTOPIA’s greater games virtual economy.";
-    const serverWebsite = "https://hytopia.com/games/"; // include https://
-    const serverTwitter = "https://x.com/HYTOPIAgg"; // include https://
-    const serverDiscord = "https://discord.gg/topiagg"; // include https://
+    const ticker = "GMR"; // Skip if not NFT
+    const serverName = "TDCCP Music";
+    const serverDescription = "​Join the TDCCP|Music club, we are the mainstream.";
+    const serverWebsite = "https://www.tdccpmusic.com/"; // include https://
+    const serverTwitter = "https://x.com/GMusic777"; // include https://
+    const serverDiscord = "https://discord.gg/tdccpmusic"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d";
+    const explorerLink = "https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e";
     const gifImages = [
-     "https://i2.seadn.io/ethereum/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d/111e99c06ae0b8b0a0d5cc86c153bb/c6111e99c06ae0b8b0a0d5cc86c153bb.png?w=350",
-     "https://i2.seadn.io/ethereum/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d/5ec0aa28dc07e1cd106710c5accb33/e35ec0aa28dc07e1cd106710c5accb33.png?w=350",
-     "https://i2.seadn.io/ethereum/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d/8c7526c19c3af059c38bcf846b3597/7e8c7526c19c3af059c38bcf846b3597.png?w=350",
-     "https://i2.seadn.io/ethereum/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d/added883fa3729e708a55c482b0b43/65added883fa3729e708a55c482b0b43.png?w=350",
-     "https://i2.seadn.io/ethereum/0x8d9710f0e193d3f95c0723eaaf1a81030dc9116d/c28622ae78203e4df5033fb884124a/56c28622ae78203e4df5033fb884124a.png?w=350"
+   "https://pbs.twimg.com/profile_images/1831923816991244288/xM1_Depf_400x400.jpg"
     ];
 
 
@@ -77,7 +73,7 @@
         ronin: "https://guild.xyz/networkLogos/ronin.svg",
         sei: "https://guild.xyz/explorerLogos/seitrace.svg",
         shape: "https://shapescan.xyz/assets/favicon/favicon-16x16.png",
-        solana: "https://solscan.io/favicon.ico",
+        solana: "https://avatars.githubusercontent.com/u/92743431?s=200&v=4",
         soneium: "https://guild.xyz/networkLogos/soneium.webp",
         unichain: "https://unichain.blockscout.com/assets/favicon/favicon-16x16.png",
         zora: "https://guild.xyz/networkLogos/zora.svg"
