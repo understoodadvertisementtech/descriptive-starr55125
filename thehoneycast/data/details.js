@@ -2,25 +2,18 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "TEST";
+    const serverName = "THC";
     const serverDescription = "A podcast for Beras because Beras can't read.";
     const serverWebsite = "https://linktr.ee/TheHoneyCast"; // include https://
     const serverTwitter = "https://x.com/The_HoneyCast"; // include https://
     const serverDiscord = "https://discord.com/invite/thehoneycast"; // include https://
-    const serverChain = "ethereum";
+    const serverChain = "berachain";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://beratrail.io/address/0x229F67d36BF9BEB006302d800CCeF660D75bA339/multichain-portfolio";
     const gifImages = [
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpMAqOUzz4tVdw0uEDvab3rASMnqR%252BRYGNcERGlF13hYrw%253D%253D.png",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpOAHqp3IOFh3sZQGQ53hj9zGv6Xdg5JyPayI4agGQbANg%253D%253D.png",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpOM63mgquy6u4v89w%252BIwlLc8NRu9o7nvRSC%252B4hxcNvNgQ%253D%253D.png",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpMJ%252FyWFcNxU1wB%252F%252FwRPbv3m8NTn%252B76Eyc6qJDbGqRFzbw%253D%253D.png",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpNQhfMFNGLHJ%252Flh88h7GBJYWS7qgifU1LwYGKTPDPXLYg%253D%253D.png",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FsOTBijPB4TC8H3uxVfx5hCuJOMjTD9F8HMUowPjtLmQ",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fi-pPRcJdsT_I9l_gP52crA2vwjgcmBh-g3J0jrVGGmA",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FPIvIGKtXvfcGrVKiYnxDo_WHwr9g7LwHz6rxZex5o-Y",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVrrnNTuoN7-n248NOvlt50dFTJa1x9dCmRQ7hw0q5rc",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FxmILpdomTQJRvOkjYk18_72ApXhWxrzK5hCRV7MAD0g"
     ];
 
 
