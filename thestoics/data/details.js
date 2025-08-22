@@ -1,26 +1,21 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "BTC"; // Skip if not NFT
-    const serverName = "TEST";
-    const serverDescription = "This is a Test Description. ";
-    const serverWebsite = "https://www.test.com/"; // include https://
-    const serverTwitter = "https://x.com/test"; // include https://
-    const serverDiscord = "https://discord.gg/test"; // include https://
+    const ticker = "GMR"; // Skip if not NFT
+    const serverName = "TDCCP Music";
+    const serverDescription = "5,000 NFT Art Collection by gabe weis";
+    const serverWebsite = "https://www.tdccpmusic.com/"; // include https://
+    const serverTwitter = "https://x.com/GMusic777"; // include https://
+    const serverDiscord = "https://discord.gg/tdccpmusic"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
-    const nftImages = [
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Frc8GrWIT6faQOlH9kwI817fqEvFMnPJDnCtMNr3-8aE",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FMiM9fUSDmFm4K3VRatk67nETDkiI05CuMmojTDEtaI0",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fu2syS3cTLXG0ByOb1kv77FwgerQ7WDNNQX2zwNu3qo4",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVr_-8Xp3ZPyaX-KoymSKYiqce27bV7NIOudGo940ppw",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fixvx1i-xYu7pS-fe0D6peMNUVkr38yDpsP4Zjl57vCA",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FsOTBijPB4TC8H3uxVfx5hCuJOMjTD9F8HMUowPjtLmQ",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fi-pPRcJdsT_I9l_gP52crA2vwjgcmBh-g3J0jrVGGmA",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FPIvIGKtXvfcGrVKiYnxDo_WHwr9g7LwHz6rxZex5o-Y",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVrrnNTuoN7-n248NOvlt50dFTJa1x9dCmRQ7hw0q5rc",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FxmILpdomTQJRvOkjYk18_72ApXhWxrzK5hCRV7MAD0g"
+    const explorerLink = "https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e";
+    const gifImages = [
+   "https://i2.seadn.io/ethereum/0x12632d6e11c6bbc0c53f3e281ea675e5899a5df5/1e49b98600aa121f4b3889a66d5770/b41e49b98600aa121f4b3889a66d5770.png?w=350",
+   "https://i2.seadn.io/ethereum/0x12632d6e11c6bbc0c53f3e281ea675e5899a5df5/838019a35b2c7a06400bdbce0fe2b628.jpeg?w=350",
+   "https://i2.seadn.io/ethereum/0x12632d6e11c6bbc0c53f3e281ea675e5899a5df5/c077d69b27161815743d6373546db7e5.jpeg?w=350",
+   "https://i2.seadn.io/ethereum/0x12632d6e11c6bbc0c53f3e281ea675e5899a5df5/ce97ad5f34e4b40c61abeaca45bf8d17.jpeg?w=350",
+   "https://i2.seadn.io/ethereum/0x12632d6e11c6bbc0c53f3e281ea675e5899a5df5/59a0682f7fa84e2e41a351d34134096a.jpeg?w=350",
     ];
 
 
@@ -61,8 +56,8 @@
     const img = document.getElementById("nftGIF");
 
     setInterval(() => {
-        img.src = nftImages[index];
-        index = (index + 1) % nftImages.length;
+        img.src = gifImages[index];
+        index = (index + 1) % gifImages.length;
     }, 150);
 
     const chainLogos = {
@@ -82,7 +77,7 @@
         ronin: "https://guild.xyz/networkLogos/ronin.svg",
         sei: "https://guild.xyz/explorerLogos/seitrace.svg",
         shape: "https://shapescan.xyz/assets/favicon/favicon-16x16.png",
-        solana: "https://solscan.io/favicon.ico",
+        solana: "https://avatars.githubusercontent.com/u/92743431?s=200&v=4",
         soneium: "https://guild.xyz/networkLogos/soneium.webp",
         unichain: "https://unichain.blockscout.com/assets/favicon/favicon-16x16.png",
         zora: "https://guild.xyz/networkLogos/zora.svg"
