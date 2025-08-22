@@ -1,17 +1,23 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "GMR"; // Skip if not NFT
-    const serverName = "TDCCP Music";
-    const serverDescription = "​Join the TDCCP|Music club, we are the mainstream.";
-    const serverWebsite = "https://www.tdccpmusic.com/"; // include https://
-    const serverTwitter = "https://x.com/GMusic777"; // include https://
-    const serverDiscord = "https://discord.gg/tdccpmusic"; // include https://
-    const serverChain = "ethereum";
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "Breadheads";
+    const serverDescription = "3,000 breadheads baked with utility at the center. Building the best chain agnostic crypto wallet the world has ever seen.";
+    const serverWebsite = "https://www.dreamos.app//"; // include https://
+    const serverTwitter = "https://x.com/breadheadnfts; // include https://
+    const serverDiscord = "https://discord.com/invite/dreamos"; // include https://
+    const serverChain = "sol";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e";
+    const explorerLink = "https://etherscan.io/address/EW8mqV277inu7v4rF983tpii445oGDuDQJQtXRwabfZ5";
     const gifImages = [
-   "https://pbs.twimg.com/profile_images/1831923816991244288/xM1_Depf_400x400.jpg"
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicue33bcjgcu6mksfy4i5ova3igaw6va3qhvhau6w7kfazl2cif2q%2F347.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicue33bcjgcu6mksfy4i5ova3igaw6va3qhvhau6w7kfazl2cif2q%2F1829.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicue33bcjgcu6mksfy4i5ova3igaw6va3qhvhau6w7kfazl2cif2q%2F2973.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicue33bcjgcu6mksfy4i5ova3igaw6va3qhvhau6w7kfazl2cif2q%2F22.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnftstorage.link%2Fipfs%2Fbafybeicue33bcjgcu6mksfy4i5ova3igaw6va3qhvhau6w7kfazl2cif2q%2F2248.png",
+
+
     ];
 
 
