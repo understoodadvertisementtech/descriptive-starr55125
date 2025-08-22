@@ -7,7 +7,7 @@
     const serverWebsite = "https://www.dreamos.app//"; // include https://
     const serverTwitter = "https://x.com/breadheadnfts"; // include https://
     const serverDiscord = "https://discord.gg/dreamos"; // include https://
-    const serverChain = "sol";
+    const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://solscan.io/token/EW8mqV277inu7v4rF983tpii445oGDuDQJQtXRwabfZ5";
     const gifImages = [
