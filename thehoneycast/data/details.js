@@ -2,7 +2,7 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "THC";
+    const serverName = "The HoneyCast";
     const serverDescription = "A podcast for Beras because Beras can't read.";
     const serverWebsite = "https://linktr.ee/TheHoneyCast"; // include https://
     const serverTwitter = "https://x.com/The_HoneyCast"; // include https://
@@ -17,6 +17,7 @@
 "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpMnNUgL5mFc64BFsi7gFLZ7W4eJ1wC8e1QgYPRI79PCLw%253D%253D.png",
 "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpPIn96ZL9vD2Do8ivbQdF7CxeTfopa7j%252BSzQ2Lf7eJTXw%253D%253D.png",
 
+]
 
 // END OF EDIT
 
