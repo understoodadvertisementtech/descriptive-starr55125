@@ -6,7 +6,7 @@
     const serverDescription = "A podcast for Beras because Beras can't read.";
     const serverWebsite = "https://linktr.ee/TheHoneyCast"; // include https://
     const serverTwitter = "https://x.com/The_HoneyCast"; // include https://
-    const serverDiscord = "https://discord.com/invite/thehoneycast"; // include https://
+    const serverDiscord = "https://discord.gg/thehoneycast"; // include https://
     const serverChain = "berachain";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://beratrail.io/address/0x229F67d36BF9BEB006302d800CCeF660D75bA339/multichain-portfolio";
@@ -14,7 +14,8 @@
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpMAqOUzz4tVdw0uEDvab3rASMnqR%252BRYGNcERGlF13hYrw%253D%253D.png",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpOAHqp3IOFh3sZQGQ53hj9zGv6Xdg5JyPayI4agGQbANg%253D%253D.png",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpOM63mgquy6u4v89w%252BIwlLc8NRu9o7nvRSC%252B4hxcNvNgQ%253D%253D.png",
-    ];
+"https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpMnNUgL5mFc64BFsi7gFLZ7W4eJ1wC8e1QgYPRI79PCLw%253D%253D.png",
+"https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fberachain%2Fi9YO%252F4yHXUdJsWcTqhqvf796d%252FNnGUyvgIlmp2XgqPvO5BeZewhKohhc7WUHfGn%252FPD8ixWG6v4DATAH0LVDDbgu1AaIpEG5YAUePZHk%252FSpPIn96ZL9vD2Do8ivbQdF7CxeTfopa7j%252BSzQ2Lf7eJTXw%253D%253D.png",
 
 
 // END OF EDIT
