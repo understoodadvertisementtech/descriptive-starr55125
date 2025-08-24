@@ -6,7 +6,7 @@
     const serverDescription = "The world's first Web3.0 island travel IP Connecting through web3.0 with a passion for island travel!";
     const serverWebsite = "https://www.chameleontravel.club/"; // include https://
     const serverTwitter = "https://x.com/ChameleonTravel"; // include https://
-    const serverDiscord = "https://discord.com.gg/chameleontravelclub"; // include https://
+    const serverDiscord = "https://discord.gg/chameleontravelclub"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x9f6dad7762ce8181efe3352cd1d1978ef143be72";
@@ -17,7 +17,6 @@
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnft.chameleontravel.club%2Fcollection%2Fimages%2F435.png",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnft.chameleontravel.club%2Fcollection%2Fimages%2F441.png",
      
-
     ];
 
 
