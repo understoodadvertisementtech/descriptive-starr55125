@@ -3,20 +3,20 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "SMORC";
-    const serverDescription = "8888 Orcs from the Genesis Collection invaded the Solana.";
+    const serverDescription = "8888 Orcs from the Genesis Collection invaded the Solana. ";
     const serverWebsite = "https://smorc.io/"; // include https://
     const serverTwitter = "https://x.com/SmorcSol"; // include https://
-    const serverDiscord = "https://discord.com/invite/smorc"; // include https://
+    const serverDiscord = "https://discord.gg/smorc"; // include https://
     const serverChain = "solana";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://solscan.io/account/BvQXebCBF5T5vSf7yJCXHihJ4XoFTRzerGr4Y2CSo5v1";
     const gifImages = [
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FMYvGZDAJ3sKqu1usvZuHK_iE4sFB6AMfVASRfIHHEEo",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FM8XdnPOylU3v4CTCNDM8t3dztjI5rcUvhraNal3v4Jo",
         "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FQ5njJia7aoZtsIGIE0woSS2ptk7T7a_E-c452GNkIyw",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FSEcZ8MYrn01iQLCusMC0cTX4YW1qoNdLT23MlyuAWFU",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2F8u2rXtVz0ncG6U8xjJ0RGtPmMigfsiLKIpdJyD536RU",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FmCGClxYP-e3wrivD8kiK_Jh_4iT1Zih468S57j1NhM4",
-   
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FNV7h9ANPtIA-vgndV_5Ccbz0GIixKdslguRvf9HyrS0",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2F-WnupUbq-IQ9ZFX41Ub52F-qFygWSJMX4e8_TRNsByg",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Farweave.net%2FUmh5D3q4E0Xinobho2UkDnB7Qnxr5aS6lArNHdeQgLA",
+      
     ];
 
 
