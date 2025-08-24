@@ -3,22 +3,17 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "Chameleon Travel Club";
-    const serverDescription = "Setting sail for a transcendent journey to the world's most prestigious tropical islands.";
+    const serverDescription = "Setting sail for a transcendent journey to the world's most prestigious tropical islands. ";
     const serverWebsite = "https://www.chameleontravel.club//"; // include https://
     const serverTwitter = "https://x.com/ChameleonTravel"; // include https://
-    const serverDiscord = "https://discord.com/invite/chameleontravelclub"; // include https://
+    const serverDiscord = "https://discord.gg/chameleontravelclub"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x9f6dad7762ce8181efe3352cd1d1978ef143be72 = [
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/c0306050a660b977bbcd97c956b7095d.png?w=1000",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FMiM9fUSDmFm4K3VRatk67nETDkiI05CuMmojTDEtaI0",
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/c0306050a660b977bbcd97c956b7095d.png?w=1000",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVr_-8Xp3ZPyaX-KoymSKYiqce27bV7NIOudGo940ppw",
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/0e4d10f8c20228eb3a029ae7ad86e383.png?w=1000",
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/458d855f6a95fa1bbf9e5e705e189b0c.png?w=1000",
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/7095df2c9694dceea96e7627a22cc080.png?w=1000",
-        "https://i2.seadn.io/ethereum/0x9f6dad7762ce8181efe3352cd1d1978ef143be72/de3f5e5d2a933a2cffb64e77a35871bf.png?w=1000",
-    
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnft.chameleontravel.club%2Fcollection%2Fimages%2F489.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnft.chameleontravel.club%2Fcollection%2Fimages%2F225.png",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fnft.chameleontravel.club%2Fcollection%2Fimages%2F161.png",
+      
 
     ];
 
