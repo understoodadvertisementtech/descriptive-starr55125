@@ -11,11 +11,11 @@
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5";
     const gifImages = [
-        "https://i2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/9c0c9cd2aa45d5b4216d22693913d1/a39c0c9cd2aa45d5b4216d22693913d1.gif?w=500",
-        "https://i2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/10fa8c68e895c0c9ca8db5083eaf28/8910fa8c68e895c0c9ca8db5083eaf28.gif?w=500",
-        "https://i2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/452b9aa98acde6ccbe7fdbdfb4ead8/33452b9aa98acde6ccbe7fdbdfb4ead8.gif?w=500",
-        "https://i2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/c1e528e3d61dbe934ab002b3eb6893/8cc1e528e3d61dbe934ab002b3eb6893.gif?w=500",
-        "https://i2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/4e65d6c484fb279db82c69b1e3dd95/a64e65d6c484fb279db82c69b1e3dd95.gif?w=500",
+        "https://raw2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/d98a336d449a5c8634ffea3b97f2db/ded98a336d449a5c8634ffea3b97f2db.gif",
+        "https://raw2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/fd755e9f68ac3374e578c122be30b5/8cfd755e9f68ac3374e578c122be30b5.gif",
+        "https://raw2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/d98a336d449a5c8634ffea3b97f2db/ded98a336d449a5c8634ffea3b97f2db.gif",
+        "https://raw2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/3a643b5810b3f7c658e9504bcf704b/253a643b5810b3f7c658e9504bcf704b.gif",
+        "https://raw2.seadn.io/polygon/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5/2158b56c8dd68acf1d4ecd5fc23382/fa2158b56c8dd68acf1d4ecd5fc23382.gif",
        
     ];
 
