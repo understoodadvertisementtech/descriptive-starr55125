@@ -1,21 +1,23 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "LAY3R"; // Skip if not NFT
-    const serverName = "Mad Rabbits Riot Club";
-    const serverDescription = "Mad Rabbits Riot Club is a harrowing, yet exhilarating, saga into a raucous world of crypto intrigue, turf wars, and metaverse heists.";
-    const serverWebsite = "https://madrabbits.io/"; // include https://
-    const serverTwitter = "https://x.com/MadRabbitsRC"; // include https://
-    const serverDiscord = "https://discord.gg/madrabbits"; // include https://
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "LifeVerse";
+    const serverDescription = "A decentralized community-driven Web3 gaming ecosystem built on Arbitrum. LifeVerse delivers both engaging and rewarding gaming experiences that span across an interoperable Treasure ecosystem through the creation of LifeVerse-owned and operated games. We expand our mission by partnering/collaborating with promising Treasure cartridges to deliver interoperable gaming experiences.";
+    const serverWebsite = "https://lifeverse.gg/"; // include https://
+    const serverTwitter = "https://x.com/LifeVerse_GG"; // include https://
+    const serverDiscord = "https://discord.gg/lifeverse"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x57fbb364041d860995ed610579d70727ac51e470";
+    const explorerLink = "https://etherscan.io/address/0x9d3aca725a289c6e798355592cd3dd5e43fa14a5";
     const gifImages = [
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/abc7e86b74b589eb4522b51a93047055.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/a144eabb012551df5cac867e1dfe19df.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/ac865987fb71e310b04793948593733e.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/1526e2a04586bc01cd029ab25138809e.png?w=350",
-     "https://i2.seadn.io/ethereum/0x57fbb364041d860995ed610579d70727ac51e470/2d2a0ecbc19066d70ee1f47dafef4321.png?w=350",
+
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flifeverse.gg%2Fresource%2Fimbued-soul%2F3613",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flifeverse.gg%2Fresource%2Fimbued-soul%2F1898",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flifeverse.gg%2Fresource%2Fimbued-soul%2F1674",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flifeverse.gg%2Fresource%2Fimbued-soul%2F1677",
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Flifeverse.gg%2Fresource%2Fimbued-soul%2F2834",
+       
     ];
 
 
@@ -77,7 +79,7 @@
         ronin: "https://guild.xyz/networkLogos/ronin.svg",
         sei: "https://guild.xyz/explorerLogos/seitrace.svg",
         shape: "https://shapescan.xyz/assets/favicon/favicon-16x16.png",
-        solana: "https://solscan.io/favicon.ico",
+        solana: "https://avatars.githubusercontent.com/u/92743431?s=200&v=4",
         soneium: "https://guild.xyz/networkLogos/soneium.webp",
         unichain: "https://unichain.blockscout.com/assets/favicon/favicon-16x16.png",
         zora: "https://guild.xyz/networkLogos/zora.svg"
