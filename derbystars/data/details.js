@@ -3,11 +3,7 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "Derby Stars";
-    const serverDescription = "Free-to-play NFT horse racing game powered by $DSRUN. 
- 
-Breed, borrow, train, race to earn rewards!
-
-Backed by Hashed, Patron, Galaxy, Polygon.";
+    const serverDescription = "Free-to-play NFT horse racing game powered by $DSRUN.";
     const serverWebsite = "https://derbystars.com/"; // include https://
     const serverTwitter = "https://x.com/DerbyStars_HQ"; // include https://
     const serverDiscord = "https://discord.gg/derbystars"; // include https://
