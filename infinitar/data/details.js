@@ -4,8 +4,8 @@
     const ticker = "$IGT"; // Skip if not NFT
     const serverName = "Infinitar";
     const serverDescription = "A revolutionary 1v1, 3v3, and 5v5 game with three lanes!";
-    const serverWebsite = "https://x.com/Infinitar_MOBA"; // include https://
-    const serverTwitter = "https://www.infinitar.com/"; // include https://
+    const serverWebsite = "https://www.infinitar.com/"; // include https://
+    const serverTwitter = "https://x.com/Infinitar_MOBA"; // include https://
     const serverDiscord = "https://discord.gg/infinitar"; // include https://
     const serverChain = "bsc";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
