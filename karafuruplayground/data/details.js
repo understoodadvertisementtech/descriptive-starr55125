@@ -3,9 +3,7 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "Karafuru";
-    const serverDescription = "A movement to color the entire world.
-
-One Karafuru at a time.";
+    const serverDescription = "A movement to color the entire world.";
     const serverWebsite = "https://karafuru.io/"; // include https://
     const serverTwitter = "https://x.com/KarafuruNFT"; // include https://
     const serverDiscord = "https://discord.gg/karafuruplayground"; // include https://
@@ -13,13 +11,12 @@ One Karafuru at a time.";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6";
     const gifImages = [
-        "0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6",
         "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/c0f607bb5d93fa2dc98a7170dd5e323b.jpeg",
-        "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/096e632a419b9e510e3081a20faee171.jpeg",
+         "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/096e632a419b9e510e3081a20faee171.jpeg",
         "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/dc119a2f5f027501f7395584d5596933.jpeg",
         "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/a6f9751a8082d5f73a0013a456f16094.jpeg",
         "https://raw2.seadn.io/ethereum/0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6/4fdd65357a6992a7ee8424de99968189.jpeg",
-       
+      
     ];
 
 
