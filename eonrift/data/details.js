@@ -1,17 +1,19 @@
 // FOR EDITING
 
-    const isNFT = false; // false if not NFT
-    const ticker = "$FROGZILLA"; // Skip if not NFT
-    const serverName = "FROGZILLA";
-    const serverDescription = "Frogzilla ($FROGZ) is Solana’s wildest meme coin—zero VC, no presale, and 100% focused on community.";
-    const serverWebsite = "https://frogzillaoffical.com/"; // include https://
-    const serverTwitter = "https://x.com/Frogzilla_OG"; // include https://
-    const serverDiscord = "https://discord.gg/frogzilla"; // include https://
-    const serverChain = "solana";
+    const isNFT = true; // false if not NFT
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "Eon Rift";
+    const serverDescription = "A new digital collectibles IP by Leri Greer, Hollywood Creative Director behind Avatar 1-5, Mad Max & more, and Tom Waltz, NYT Bestselling author from TMNT.";
+    const serverWebsite = "https://www.eonrift.com/"; // include https://
+    const serverTwitter = "https://x.com/eonrift"; // include https://
+    const serverDiscord = "https://discord.gg/eonrift"; // include https://
+    const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://solscan.io/token/CoYJQQmP7sttqMeFiKJr7CoTus4yMxcpVCvn3HsnD3df";
+    const explorerLink = "https://etherscan.io/address/0x0246eef374585352de5ba4c095eb0bc136392109";
     const gifImages = [
-   "https://pbs.twimg.com/profile_images/1954082003542044672/su8D1cTI_400x400.jpg",
+        "https://i2.seadn.io/ethereum/db9a561452fa4f55b26b488945a1c8f5/873185217cefc596c490d19ea6d7ed/9b873185217cefc596c490d19ea6d7ed.png?w=1920",
+"https://i2.seadn.io/ethereum/db9a561452fa4f55b26b488945a1c8f5/47eb6127a8b749a0b08f840c1b2f39/d547eb6127a8b749a0b08f840c1b2f39.png?w=1920",
+"https://i2.seadn.io/ethereum/db9a561452fa4f55b26b488945a1c8f5/c62b9c523ee8041fa6ddde44ccd463/67c62b9c523ee8041fa6ddde44ccd463.png?w=1920", 
     ];
 
 
