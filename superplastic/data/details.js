@@ -1,17 +1,21 @@
 // FOR EDITING
 
-    const isNFT = false; // false if not NFT
+    const isNFT = true; // false if not NFT
     const ticker = "AquaFunded"; // Skip if not NFT
-    const serverName = "AquaFunded";
-    const serverDescription = "Welcome to Aqua Funded, a firm committed to empowering traders to navigate the financial waters and achieve sustainable success.";
-    const serverWebsite = "https://www.aquafunded.com/"; // include https://
-    const serverTwitter = "https://x.com/AquaFunded"; // include https://
-    const serverDiscord = "https://discord.gg/aquafun"; // include https://
+    const serverName = "SUPERPLASTIC";
+    const serverDescription = "World’s top creator of animated celebs, vinyl toys & digital collectibles";
+    const serverWebsite = "https://superplastic.co/"; // include https://
+    const serverTwitter = "https://x.com/superplastic"; // include https://
+    const serverDiscord = "https://discord.gg/superplastic"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://trading.aquafunded.com/login";
+    const explorerLink = "https://etherscan.io/address/0x07187957e1e8877c7da42a89188fe6b0d80a2370";
     const gifImages = [
-   "https://pbs.twimg.com/profile_images/1833107809241554944/_L9_X2o8_400x400.jpg",
+   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/91761dc81712e848a145113c3f1c86c5.png?w=350",
+   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/fbb20ede6c961b18b02500075452737c.png?w=350",
+   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/8087c02ffd6b446b0d2031a9d835bc4d.png?w=350",
+   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/8008ed506c96a8946b8eea4428a25e96.png?w=350",
+   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/c3ce606b1f2e1e3d4a365453b7af1358.png?w=350",
     ];
 
 
