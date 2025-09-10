@@ -11,16 +11,8 @@
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-        "https://cdn.cypher.collider.gg/revealify/1145_portrait.png",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FMiM9fUSDmFm4K3VRatk67nETDkiI05CuMmojTDEtaI0",
-
-        "https://cdn.cypher.collider.gg/revealify/0782_portrait.png",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FVr_-8Xp3ZPyaX-KoymSKYiqce27bV7NIOudGo940ppw",
-
-        "https://cdn.cypher.collider.gg/revealify/0271_portrait.png",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FsOTBijPB4TC8H3uxVfx5hCuJOMjTD9F8HMUowPjtLmQ",
-
-     
+        "https://pbs.twimg.com/profile_images/1674073788458082318/JAia7VcU_400x400.jpg",
+       
     ];
 
 
