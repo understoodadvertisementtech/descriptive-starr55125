@@ -1,6 +1,6 @@
 // FOR EDITING
 
-    const isNFT = false; // false if not NFT
+    const isNFT = true; // false if not NFT
     const ticker = ""; // Skip if not NFT
     const serverName = "Alice";
     const serverDescription = "No one has ever seen it before....";

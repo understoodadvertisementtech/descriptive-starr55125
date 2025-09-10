@@ -1,22 +1,17 @@
 // FOR EDITING
 
-    const isNFT = true; // false if not NFT
-    const ticker = ""; // Skip if not NFT
-    const serverName = "Anata";
-    const serverDescription = "The number one identity NFT";
-    const serverWebsite = "https://www.webtoons.com/en/canvas/anata-absolution/list?title_no=990693"; // include https://
-    const serverTwitter = "https://x.com/AnataNFT"; // include https://
-    const serverDiscord = "https://discord.gg/anatanft"; // include https://
-    const serverChain = "ethereum";
+    const isNFT = false; // false if not NFT
+    const ticker = "Predictions"; // Skip if not NFT
+    const serverName = "Arenaton";
+    const serverDescription = "Arenaton: Sports betting interface. Smarter bets with AI & crypto!";
+    const serverWebsite = "https://www.arenaton.com/landing"; // include https://
+    const serverTwitter = "https://x.com/ArenatonVUND"; // include https://
+    const serverDiscord = "https://discord.gg/arenaton"; // include https://
+    const serverChain = "arbitrum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0xf729f878f95548bc7f14b127c96089cf121505f8";
+    const explorerLink = "https://arbiscan.io/";
     const gifImages = [
-   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fcz9lS2Pi4jLa3DLtf2_nhNn0DWwtihd6u8lcnr9Xco4%2F288.png",
-   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fcz9lS2Pi4jLa3DLtf2_nhNn0DWwtihd6u8lcnr9Xco4%2F1454.png",
-   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fcz9lS2Pi4jLa3DLtf2_nhNn0DWwtihd6u8lcnr9Xco4%2F576.png",
-   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fcz9lS2Pi4jLa3DLtf2_nhNn0DWwtihd6u8lcnr9Xco4%2F655.png",
-   "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fcz9lS2Pi4jLa3DLtf2_nhNn0DWwtihd6u8lcnr9Xco4%2F1421.png",
-
+   "https://pbs.twimg.com/media/Gy2CB5oXYAAdRT6?format=jpg&name=medium",
     ];
 
 

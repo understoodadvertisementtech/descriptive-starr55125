@@ -7,9 +7,9 @@
     const serverWebsite = "https://www.fable-hub.com/"; // include https://
     const serverTwitter = "https://x.com/Fable_Platform"; // include https://
     const serverDiscord = "https://discord.gg/fablehub"; // include https://
-    const serverChain = "ethereum";
+    const serverChain = "arbitrum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x06d7ce587bd94583070192cabc5ae3fc06d43a90";
+    const explorerLink = "https://arbiscan.io/address/0x06d7ce587bd94583070192cabc5ae3fc06d43a90";
     const gifImages = [
         "https://raw2.seadn.io/arbitrum/0x06d7ce587bd94583070192cabc5ae3fc06d43a90/b52f5e6809a0785bf8a94208280fd5/c3b52f5e6809a0785bf8a94208280fd5.png",
         "https://raw2.seadn.io/arbitrum/0x06d7ce587bd94583070192cabc5ae3fc06d43a90/0003a847da17da7d9b6ebbf985dcdd/aa0003a847da17da7d9b6ebbf985dcdd.png",

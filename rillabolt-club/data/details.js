@@ -7,9 +7,9 @@
     const serverWebsite = "https://linktr.ee/YokuLabs"; // include https://
     const serverTwitter = "https://x.com/rillaboltclub"; // include https://
     const serverDiscord = "https://discord.gg/rillabolt-club"; // include https://
-    const serverChain = "ethereum";
+    const serverChain = "apechain";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x97db2dc1f736c4884d84b1e3f318de9609d3c9df";
+    const explorerLink = "https://apescan.io/address/0x59e31835e14e78fe0a8dea92f44aad14c06d4bc1";
     const gifImages = [
         "https://raw2.seadn.io/ape_chain/0x59e31835e14e78fe0a8dea92f44aad14c06d4bc1/d5720a387dda7fe37cb72710cebbd1/93d5720a387dda7fe37cb72710cebbd1.webp",
 
