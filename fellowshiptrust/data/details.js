@@ -1,17 +1,21 @@
 // FOR EDITING
 
-    const isNFT = false; // false if not NFT
+    const isNFT = true; // false if not NFT
     const ticker = "Predictions"; // Skip if not NFT
-    const serverName = "Arenaton";
-    const serverDescription = "Arenaton: Sports betting interface. Smarter bets with AI & crypto!";
-    const serverWebsite = "https://www.arenaton.com/landing"; // include https://
-    const serverTwitter = "https://x.com/ArenatonVUND"; // include https://
-    const serverDiscord = "https://discord.gg/arenaton"; // include https://
-    const serverChain = "arbitrum";
+    const serverName = "FellowshipAI";
+    const serverDescription = "Fellowship is a contemporary art gallery specializing in artists working with technology, exhibiting across three continents.";
+    const serverWebsite = "https://fellowship.xyz/"; // include https://
+    const serverTwitter = "https://x.com/FellowshipAi/"; // include https://
+    const serverDiscord = "https://discord.gg/fellowshiptrust"; // include https://
+    const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = "https://arbiscan.io/";
     const gifImages = [
-   "https://pbs.twimg.com/media/Gy2CB5oXYAAdRT6?format=jpg&name=medium",
+   "https://i2.seadn.io/ethereum/0x766edd602ce72fa5737a92e50d4a5e192b57aef4/5e2b106171477f4af9a8a9cbee84a1/315e2b106171477f4af9a8a9cbee84a1.jpeg?h=32&w=32",
+   "https://i2.seadn.io/ethereum/0x0162d2752020355d9880515544467d04a014811f/869305777480f23c05f4a96e6d90d964.jpeg?h=32&w=32",
+   "https://i2.seadn.io/ethereum/0x0162d2752020355d9880515544467d04a014811f/c1832f26c982272f517ba3c9d308265c.jpeg?h=32&w=32",
+   "https://i2.seadn.io/ethereum/0x9eea8d2379c5073133dda015c48bd7047fc72048/61b717e28fe5271e6c1582622621604d.jpeg?h=32&w=32",
+   "https://i2.seadn.io/ethereum/0x9eea8d2379c5073133dda015c48bd7047fc72048/ed4eb1b10dc8bf7837e8e133a8cef74e.jpeg?h=32&w=32",
     ];
 
 
