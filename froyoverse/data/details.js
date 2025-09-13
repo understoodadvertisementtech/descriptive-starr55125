@@ -1,21 +1,23 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "AquaFunded"; // Skip if not NFT
-    const serverName = "SUPERPLASTIC";
-    const serverDescription = "World’s top creator of animated celebs, vinyl toys & digital collectibles";
-    const serverWebsite = "https://superplastic.co/"; // include https://
-    const serverTwitter = "https://x.com/superplastic"; // include https://
-    const serverDiscord = "https://discord.gg/superplastic"; // include https://
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "froyo";
+    const serverDescription = "froyo kittens is a collection hand drawn and composed by jessie morii.";
+    const serverWebsite = "https://www.froyoverse.io/"; // include https://
+    const serverTwitter = "https://x.com/froyoverse"; // include https://
+    const serverDiscord = "https://discord.gg/froyoverse"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x07187957e1e8877c7da42a89188fe6b0d80a2370";
+    const explorerLink = "https://etherscan.io/address/0x22d4c35a4f2b229a928b1b569b2f60225976426a";
     const gifImages = [
-   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/91761dc81712e848a145113c3f1c86c5.png?w=350",
-   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/fbb20ede6c961b18b02500075452737c.png?w=350",
-   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/8087c02ffd6b446b0d2031a9d835bc4d.png?w=350",
-   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/8008ed506c96a8946b8eea4428a25e96.png?w=350",
-   "https://i2.seadn.io/ethereum/0x78d61c684a992b0289bbfe58aaa2659f667907f8/c3ce606b1f2e1e3d4a365453b7af1358.png?w=350",
+
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2Fz9JRSpLYGu7%252BCZoKWtAuAITPZ53br8NsYKKwTWPgYSis6S2odHKEfbhCEHGtglSUrYA33Y9g5IFB9aE2bvMT%252FTra6%252F1OR2BP3jgrzxvY5FaPZV8gpQUIyAxHJM%252B%252BfO9E2rrbkogPpSXa41y8XYv8EAtpPfD833xXozGetsaUqfqespwompfMPY8fuiscuyhK1N6V0sRL%252FL4pU93G8B%252FsEg%253D%253D",
+
+"https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2Fz9JRSpLYGu7%252BCZoKWtAuACtUvmOYIrGESqxLZhgCGC%252BMiorHUTn2tvSu9%252FhkKQVfViOMV2ZIjI6ZQ36Ijwyk2nKcsLR%252F%252Bg3ApKPo8NYyBVuFQ%252FNfV15hXWQuiMuRGkFQal61do6j6EpAOAk5jvREdcDB5oSBbWjLyvqYJ3TXKLbksxITk3zKN0TvNGk8ACHbOExrfKUklzsWYZV5ZZN9EQ%253D%253D",
+
+"https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2Fz9JRSpLYGu7%252BCZoKWtAuAH5V8ZYTEFANBvTE4TVEfOX35YmcPBorHboxJ1WymbiYOentarbcHNuWOvtW2R0FqHP0MR4I31EISON5VzjTMfaEKKltdjTEvOtkjr89DoGhYSoIwNbzWYZ%252F7jq2EZBdNtmBv2HnVCK59pMarR9hgkv33ion2KFGs30AktHx6Ty%252BNQIt8slnuZzAtW9Rs6UbzA%253D%253D",
+
     ];
 
 
