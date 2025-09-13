@@ -2,23 +2,19 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "PixelSaurus";
-    const serverDescription = "Discover an immersive world of Dino related digital collectibles, books, games & more! 🦖";
-    const serverWebsite = "https://pixelsaurus.io/"; // include https://
-    const serverTwitter = "https://x.com/PixelSaurus"; // include https://
-    const serverDiscord = "https://discord.gg/pixelsaurus"; // include https://
+    const serverName = "Mirakai Scrolls";
+    const serverDescription = "Sacred scrolls uncovered from the dungeons of Mirakai, fully on-chain. Those who wield these scrolls can forge them into heroes.";
+    const serverWebsite = "https://www.officialmirakai.com/"; // include https://
+    const serverTwitter = "https://x.com/OfficialMirakai"; // include https://
+    const serverDiscord = "https://discord.gg/mirakai"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x98ca225769216ee2d8cbfead52718c35e65c36d4";
+    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-        "https://raw2.seadn.io/ethereum/0x98ca225769216ee2d8cbfead52718c35e65c36d4/9e3e3079d888d4596f7dd115fe379c/b19e3e3079d888d4596f7dd115fe379c.png",
-        "https://raw2.seadn.io/ethereum/0x98ca225769216ee2d8cbfead52718c35e65c36d4/2b59cc02f1538fe6eda5cf519630b1/7f2b59cc02f1538fe6eda5cf519630b1.png",
-        "https://raw2.seadn.io/ethereum/0x98ca225769216ee2d8cbfead52718c35e65c36d4/9e0f090f494c3f772faec502d8060e/b99e0f090f494c3f772faec502d8060e.png",
-        "https://i2.seadn.io/ethereum/0x98ca225769216ee2d8cbfead52718c35e65c36d4/3e89d34779ee1555d482ec00046616/be3e89d34779ee1555d482ec00046616.png?w=1000",
-        "https://raw2.seadn.io/ethereum/0x98ca225769216ee2d8cbfead52718c35e65c36d4/3e89d34779ee1555d482ec00046616/be3e89d34779ee1555d482ec00046616.png",
 
+        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2F28SsxFrHoAzyiyUIVmrVwlczOlntRxQAii%252B%252F%252BYY7Dij971xnC8D75o0Q7eoWPaqSWb3tLSfcuWKMTM8qOm9MK8fGYA3FwhQsbveajPyZTXg%253D",
 
-   ];
+    ];
 
 
 // END OF EDIT
