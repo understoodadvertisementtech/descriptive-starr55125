@@ -1,23 +1,20 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = ""; // Skip if not NFT
-    const serverName = "Alice";
-    const serverDescription = "No one has ever seen it before....";
-    const serverWebsite = "https://alice.slash.vision/"; // include https://
-    const serverTwitter = "https://x.com/Alice_slash_NFT"; // include https://
-    const serverDiscord = "https://discord.gg/alicetwitter"; // include https://
+    const ticker = "BTC"; // Skip if not NFT
+    const serverName = "Miratashi Official";
+    const serverDescription = "MIRATASHI aims to create a distinct identity, providing individuals with a unique persona in the Web 3 space.";
+    const serverWebsite = "http://miratashi.com/"; // include https://
+    const serverTwitter = "https://x.com/MiratashiNFT"; // include https://
+    const serverDiscord = "https://discord.gg/miratashi"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://arbiscan.io/";
+    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-   "https://raw2.seadn.io/ethereum/0x1d762ca34138c6b1e85d52b6edd734b831a0ddeb/d9351aa2f2f0bcaceb0e28442f9139/acd9351aa2f2f0bcaceb0e28442f9139.png",
+        "https://raw2.seadn.io/ethereum/0xf385bb1b74fedd5bf572d41131d64b5c7826209c/a543345d66d755e95b57150e2f9590/faa543345d66d755e95b57150e2f9590.png",
+       "https://raw2.seadn.io/ethereum/0xf385bb1b74fedd5bf572d41131d64b5c7826209c/8f4e8472997f3784f0289ba2d3edb4/ae8f4e8472997f3784f0289ba2d3edb4.png",
 
-"https://raw2.seadn.io/ethereum/0x1d762ca34138c6b1e85d52b6edd734b831a0ddeb/0ef6926dd4606ef1af8e52b21bfbe7/680ef6926dd4606ef1af8e52b21bfbe7.png",
-
-"https://raw2.seadn.io/ethereum/0x1d762ca34138c6b1e85d52b6edd734b831a0ddeb/5cb5a1961bd8d9a7ad661194872a3c/2c5cb5a1961bd8d9a7ad661194872a3c.png",
-
-
+"https://raw2.seadn.io/ethereum/0xf385bb1b74fedd5bf572d41131d64b5c7826209c/315d4400a2bc374f2663ea047dfd62/e5315d4400a2bc374f2663ea047dfd62.png",
 
     ];
 
