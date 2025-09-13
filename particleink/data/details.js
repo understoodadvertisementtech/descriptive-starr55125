@@ -2,17 +2,18 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "The Tokyo Rebels";
-    const serverDescription = "The Tokyo Rebels first collection, Reborn, is composed of 10000 randomly generated and animated NFTs.";
-    const serverWebsite = "https://www.tokyorebels.io/"; // include https://
-    const serverTwitter = "https://x.com/TheTokyoRebels"; // include https://
-    const serverDiscord = "https://discord.com/invite/tokyorebels"; // include https://
+    const serverName = "Particle Ink";
+    const serverDescription = "The pARticle pack is the Genesis collection introducing the lore of the Particle Ink Metaverse while also engaging the community through Augmented Reality (AR) gameplay.";
+    const serverWebsite = "https://www.particleink.com/"; // include https://
+    const serverTwitter = "https://x.com/particleink"; // include https://
+    const serverDiscord = "https://discord.gg/particleink"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0xb54420149dbe2d5b2186a3e6dc6fc9d1a58316d4";
+    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-        "https://pbs.twimg.com/profile_images/1594495631724355585/dKP6AEHR_400x400.jpg",
-       
+        "https://pbs.twimg.com/profile_images/1883895915561234432/vrbm8bM8_400x400.png",
+        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2FMiM9fUSDmFm4K3VRatk67nETDkiI05CuMmojTDEtaI0",
+
     ];
 
 
