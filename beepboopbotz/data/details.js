@@ -2,18 +2,25 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "Eternal Genesis Guardian Medal";
-    const serverDescription = "Eternal：经典IP，再现永恒，大型MMOPRG区块链游戏";
-    const serverWebsite = "https://www.eternal.game/en"; // include https://
-    const serverTwitter = "https://x.com/eternal_game_"; // include https://
-    const serverDiscord = "https://discord.gg/eternalgame"; // include https://
-    const serverChain = "arbitrum";
+    const serverName = "Beep Boop";
+    const serverDescription = "We Are A Game NOT A Brand";
+    const serverWebsite = "https://beepboopbotz.io/"; // include https://
+    const serverTwitter = "https://x.com/BeepBoopBotz"; // include https://
+    const serverDiscord = "https://discord.gg/beepboopbotz"; // include https://
+    const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://arbiscan.io/address/0x97db2dc1f736c4884d84b1e3f318de9609d3c9df";
+    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
     const gifImages = [
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Fpub-28eff767468d4aa9bb99737726a3ddf7.r2.dev%2Flv3.jpeg",
-        
-   ];
+        "https://raw2.seadn.io/ethereum/0x46541c7c9904112e5e62847bebb148051f71bafa/341d1ac6913c1bfe027296a7664070/30341d1ac6913c1bfe027296a7664070.png",
+       "https://raw2.seadn.io/ethereum/0x46541c7c9904112e5e62847bebb148051f71bafa/b725c927c848a8500dea0a6b3b3c93/efb725c927c848a8500dea0a6b3b3c93.png",
+
+"https://raw2.seadn.io/ethereum/0x46541c7c9904112e5e62847bebb148051f71bafa/7c0f9807e8952ed06d0c7d7f8a1497/867c0f9807e8952ed06d0c7d7f8a1497.png",
+
+"https://raw2.seadn.io/ethereum/0xfe58fc763ba915013aee93c6f0890bfddbe03608/8e9dcfa4c6f023951f9c6e7ba3b887/158e9dcfa4c6f023951f9c6e7ba3b887.jpeg",
+
+
+
+    ];
 
 
 // END OF EDIT
