@@ -3,9 +3,7 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "ESION";
-    const serverDescription = "ESION is a collection of 6,000 generative Dream Catcher PFP's. Each NFT comes with two unique and interchangeable artworks, Reality and Nightmare mode. Each Dream Catcher grants membership to the ESION Club.
-
-Close your eyes and escape reality. Are you ready to enter the Nightmare World?";
+    const serverDescription = "ESION is a collection of 6,000 generative Dream Catcher PFP's. Each NFT comes with two unique and interchangeable artworks, Reality and Nightmare mode. Each Dream Catcher grants membership to the ESION Club.";
 
     const serverWebsite = "https://esionnft.com/"; // include https://
     const serverTwitter = "https://x.com/ESION_Club"; // include https://
