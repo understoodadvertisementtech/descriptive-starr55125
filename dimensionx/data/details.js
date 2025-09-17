@@ -1,22 +1,17 @@
 // FOR EDITING
 
     const isNFT = true; // false if not NFT
-    const ticker = "GMR"; // Skip if not NFT
-    const serverName = "Gallery Of Digital Assets";
-    const serverDescription = "The trusted and curated source for leading contemporary artists looking to explore digital as a new medium.";
-    const serverWebsite = "https://thegoda.io/"; // include https://
-    const serverTwitter = "https://x.com/TheGoda_io"; // include https://
-    const serverDiscord = "https://discord.gg/thegoda"; // include https://
+    const ticker = "Predictions"; // Skip if not NFT
+    const serverName = "Dimension X";
+    const serverDescription = "Dimension X is a free-to-play Idle RPG. Create your team of heroes, start your first quest, level up, and vanquish enemies that stand between you and prizes.";
+    const serverWebsite = "https://dimensionxnft.com/"; // include https://
+    const serverTwitter = "https://x.com/DimensionX_NFT"; // include https://
+    const serverDiscord = "https://discord.gg/dimensionx"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x0a36f2178c0db2c85471c45334a1dd17d130fd42";
+    const explorerLink = "https://etherscan.io/address/0x8918ba30e2e76b503e83d55eb08936b0f979eec4";
     const gifImages = [
-   "https://i2.seadn.io/ethereum/0x0a36f2178c0db2c85471c45334a1dd17d130fd42/b11cad443de9e27173850d29442fa863.gif?w=350",
-   "https://i2.seadn.io/ethereum/0x670d4dd2e6badfbbd372d0d37e06cd2852754a04/dc218b4a472069a6a057111694ebbe/7fdc218b4a472069a6a057111694ebbe.png?w=350",
-   "https://i2.seadn.io/ethereum/0x3cf69c6e77b1cf77f6bd41f4497ada96646f66a1/6752856acd2f226210bca5596bce56/756752856acd2f226210bca5596bce56.png?w=350",
-   "https://i2.seadn.io/ethereum/0x6eb8176b60d7e60c5c11d6af0847fcccd6451cdf/b01c26f3afa249fd8dbea5d5f80a07e6.png?w=350",
-   "https://i2.seadn.io/ethereum/0x3b94e0f0f3b32e9a84d4553d718cbb22234f6a9e/8c4447e9d330018f2e08961103ae800f.jpeg?w=350",
-   "https://i2.seadn.io/ethereum/0x670d4dd2e6badfbbd372d0d37e06cd2852754a04/44c750ed1305f31a205723ca5e22c5/0444c750ed1305f31a205723ca5e22c5.png?w=350",
+   "https://img-cdn.magiceden.dev/rs:fill:400:0:0/plain/https%3A%2F%2Fimg.reservoir.tools%2Fimages%2Fv2%2Fmainnet%2Fkhnv7QtJSsXhx7z5lxeoZ405bHDQALRZP4FpGdbgDoxdi1N%252Fcajw5qQxdaQ%252FlYoWNYK%252Bq5BBYE8x8Ib24TOsBCdtMKyguNLsypCd0jLx%252FY8AzCZ00VVjOaa7xqjfCVkZIxCJ57Ol%252FMW7rX3cNJlxsDHKu2gr8tle965gh6V8zL2XHh3z3swZwiQYH%252BFY9rl0",
     ];
 
 
