@@ -2,20 +2,25 @@
 
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
-    const serverName = "Reavers";
-    const serverDescription = "Earn as you progress, level by level. Plunder bustling cities, raid lucrative docks, and steer clear of prison or the perils of mutiny.";
-    const serverWebsite = "https://reavers.xyz/"; // include https://
-    const serverTwitter = "https://x.com/reaversnft"; // include https://
-    const serverDiscord = "https://discord.gg/reavers"; // include https://
-    const serverChain = "solana";
+    const serverName = "Robotos";
+    const serverDescription = "Robotos is a collection of algorithmically generated droid characters designed by Pablo Stanley";
+    const serverWebsite = "https://www.robotos.art/"; // include https://
+    const serverTwitter = "https://x.com/robotosNFT"; // include https://
+    const serverDiscord = "https://discord.com/invite/robotos"; // include https://
+    const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0x80336ad7a747236ef41f47ed2c7641828a480baa";
+    const explorerLink = "https://etherscan.io/address/0x099689220846644f87d1137665cded7bf3422747";
     const gifImages = [
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fstorage.googleapis.com%2Freavers-56900.appspot.com%2FrevisedReaverNfts%2F1742.jpg",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fstorage.googleapis.com%2Freavers-56900.appspot.com%2FrevisedReaverNfts%2F8243.jpg",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fstorage.googleapis.com%2Freavers-56900.appspot.com%2FrevisedReaverNfts%2F9678.jpg",
-        "https://img-cdn.magiceden.dev/rs:fill:800:0:0/plain/https%3A%2F%2Fstorage.googleapis.com%2Freavers-56900.appspot.com%2FrevisedReaverNfts%2F7411.jpg",
-       
+
+        "https://raw2.seadn.io/ethereum/0x099689220846644f87d1137665cded7bf3422747/0f18e89063b25d4da791ee16d16e24/fc0f18e89063b25d4da791ee16d16e24.gif",
+
+"https://raw2.seadn.io/polygon/0x7008be1fc87d160213477e4410b147434924a410/18208588f754ccabb16a01ffd89afd/0e18208588f754ccabb16a01ffd89afd.gif",
+
+"https://raw2.seadn.io/polygon/0x7008be1fc87d160213477e4410b147434924a410/5e7a32635bcec80a86fbbfdffdfc68/c85e7a32635bcec80a86fbbfdffdfc68.gif",
+
+"https://raw2.seadn.io/ethereum/0x099689220846644f87d1137665cded7bf3422747/bede18dbedfb204523415931c093ea/69bede18dbedfb204523415931c093ea.gif",
+
+
     ];
 
 
