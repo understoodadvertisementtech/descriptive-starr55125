@@ -3,19 +3,19 @@
     const isNFT = true; // false if not NFT
     const ticker = "BTC"; // Skip if not NFT
     const serverName = "Azra Games";
-    const serverDescription = "4th Generation RPGs. Founded by Mark Otero. Building 
-@ungodlygame coming to mobile and PC this winter.";
+    const serverDescription = "4th Generation RPGs. Founded by Mark Otero. Building ungodlygame coming to mobile and PC this winter.";
     const serverWebsite = "https://azragames.com/"; // include https://
     const serverTwitter = "https://x.com/AzraGames"; // include https://
     const serverDiscord = "https://discord.gg/azra"; // include https://
     const serverChain = "ethereum";
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
-    const explorerLink = "https://etherscan.io/address/0xc4973de5ee925b8219f1e74559fb217a8e355ecf";
+    const explorerLink = 
+
+"https://etherscan.io/address/0xc4973de5ee925b8219f1e74559fb217a8e355ecf";
     const gifImages = [
         "https://raw2.seadn.io/ethereum/0xc4973de5ee925b8219f1e74559fb217a8e355ecf/0a1227e8de07deca3d496bf77eacc2/af0a1227e8de07deca3d496bf77eacc2.png",
         "https://raw2.seadn.io/ethereum/0xc4973de5ee925b8219f1e74559fb217a8e355ecf/7c1346a2c0b08ec446c1897a67bf02/717c1346a2c0b08ec446c1897a67bf02.png",
-        "https://img-cdn.magiceden.dev/da:t/rs:fill:400:0:0/plain/https%3A%2F%2Farweave.net%2Fu2syS3cTLXG0ByOb1kv77FwgerQ7WDNNQX2zwNu3qo4",
-        "https://raw2.seadn.io/ethereum/0xc4973de5ee925b8219f1e74559fb217a8e355ecf/04ce0d96625ab2de03dc497e44de44/4c04ce0d96625ab2de03dc497e44de44.png",
+   "https://raw2.seadn.io/ethereum/0xc4973de5ee925b8219f1e74559fb217a8e355ecf/04ce0d96625ab2de03dc497e44de44/4c04ce0d96625ab2de03dc497e44de44.png",
     ];
 
 
