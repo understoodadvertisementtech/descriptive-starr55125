@@ -1,7 +1,7 @@
 // FOR EDITING
 
     const isNFT = false; // false if not NFT
-    const ticker = "BTC"; // Skip if not NFT
+    const ticker = "Thales"; // Skip if not NFT
     const serverName = "Thales";
     const serverDescription = "Thales is an Ethereum protocol that allows the creation of peer-to-peer parimutuel markets that anyone can join.";
     const serverWebsite = "https://www.overtime.io/"; // include https://
@@ -11,7 +11,7 @@
     // serverChain choices = abstract, apechain, arbitrum, avax, base, berachain, blast, bsc, ethereum, flow, monad, optimism, polygon, ronin, sei, shape, solana, soneium, unichain, zora
     const explorerLink = 
 
-"https://etherscan.io/address/0x3a987f099e7f1d0ca6403570a9d5a69b819f86ee";
+"https://etherscan.io/address/0x8947da500eb47f82df21143d0c01a29862a8c3c5";
     const gifImages = [
         "https://pbs.twimg.com/profile_images/1480547758687899649/H20jU6-v_400x400.png",
 
